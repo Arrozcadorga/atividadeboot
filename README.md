@@ -1,2 +1,0 @@
-# atividadeboot
-ATIVIDADE MEDIA BOOTCAMP
